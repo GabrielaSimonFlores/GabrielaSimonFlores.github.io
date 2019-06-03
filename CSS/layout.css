@@ -1,0 +1,174 @@
+@import url("normalize.css");
+
+@font-face {
+	font-family: "BorgesBlanca";
+	font-weight: 700; /* graisse definie dans fichier de la fonte (verifier dans glyph ou fontlab -> font Info) */
+	src: url('../Fonts/BorgesBlanca.otf');
+}
+
+
+@font-face {
+	font-family: "MargueriteRegular";
+	font-weight: 700; /* graisse definie dans fichier de la fonte (verifier dans glyph ou fontlab -> font Info) */
+	src: url('../Fonts/MargueriteRegular.ttf');
+	
+}
+
+@font-face {
+	font-family: "BorgesBlancaitalic";
+	font-weight: 700; /* graisse definie dans fichier de la fonte (verifier dans glyph ou fontlab -> font Info) */
+	src: url('../Fonts/BorgesBlancaitalic.otf');
+
+	
+}
+body {
+	/* on appelle la famille déclarée via font-face */
+	font-family: "BorgesBlanca", serif; 
+
+	/* largeur du document */
+	
+	font-size: 20px;
+	line-height: 120%;
+
+
+	}
+
+p, ol, h1, h2,h3, blockquote {
+
+	width: 55%;
+	margin: 48px auto 48px auto;
+
+}
+
+ol {
+	margin: 0 auto 0 auto;
+}
+
+
+
+li p {
+	margin: 0;
+	width: 100%;
+	color: #ffffff;
+
+}
+
+.show {
+	color: #000000;
+}
+
+li {
+	margin-bottom: 20px;
+
+}
+
+h1{
+	font-family: "MargueriteRegular", sans-serif; 
+	font-size: 25px;
+	text-align: center;
+
+
+
+	}
+
+h2 {
+	font-family: "MargueriteRegular", sans-serif; 
+	font-size: 20px;
+	text-align: left;
+
+
+
+	}
+
+blockquote {
+	font-family: "BorgesBlancaitalic", serif;
+	padding-left: 64px;
+	color: #fff;
+}
+
+blockquote.show {
+	color:#000;
+}
+
+.habillage p {
+
+	margin-top:0;
+	float:left;
+	width:18%;
+	margin:00px 40px 40px 0px;
+	font-family: "BorgesBlanca";
+	text-align: right;
+	font-size: 15px;
+	line-height: 120%;
+
+}
+
+.habillage2 p {
+
+	margin-top:0;
+	float:right;
+	width:18%;
+	margin:0px 30px 40px 0px;
+	font-family: "BorgesBlanca";
+	text-align: left;
+	font-size: 15px;
+	line-height: 120%;
+
+}
+
+
+.habillage p, .habillage2 p {
+	color: #fff;
+}
+
+.show.habillage p, .show.habillage2 p {
+	color: #000;
+}
+
+
+a {
+
+
+font-family: "MargueriteRegular", sans-serif; 
+font-size: 18px;
+color: red;
+
+}
+
+button {
+	font-family: "MargueriteRegular", sans-serif; 
+	color: red;
+	font-size: 18px;
+	background: none;
+    border: none;
+    border-spacing: 0;
+	margin: 0;
+    padding: 0;
+    text-decoration: underline;
+}
+
+.exemple {
+  font-variant-position: super;
+}
+
+sup {
+
+color: red;
+font-size:57%;
+
+
+}
+
+.italic {
+
+font-family: "BorgesBlancaitalic", sans-serif; 
+	font-size: 20px;
+
+}
+
+.italic2 {
+
+font-family: "BorgesBlancaitalic", sans-serif; 
+	font-size: 15px;
+
+}
