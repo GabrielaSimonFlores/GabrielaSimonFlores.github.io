@@ -12,8 +12,8 @@ Cinquante réflexions sur le sens des mots
 
 </div>
 
->Elle ne parla que pour dire qu’il lui était impossible d’exprimer combien c’était ennuyeux et long, long d’être Lol V. Stein. On lui demanda de faire un effort. Elle ne comprenait pas pourquoi, disait-elle. Sa difficulté devant la recherche d’un seul mot paraissait insurmontable.
-Le ravissement de Lol V. Stein, Marguerite Duras<sup>1</sup>
+<blockquote data-control="Dureas">Elle ne parla que pour dire qu’il lui était impossible d’exprimer combien c’était ennuyeux et long, long d’être Lol V. Stein. On lui demanda de faire un effort. Elle ne comprenait pas pourquoi, disait-elle. Sa difficulté devant la recherche d’un seul mot paraissait insurmontable.
+Le ravissement de Lol V. Stein, Marguerite <button>Duras</button> <sup>1</sup></blockquote>
 
 0. J’ai écrit ce texte avec l’idée de <button>comprendre</button> et éclaircir un peu plus les idées et conceptions dispersées que j’avais autour des mots. Ces questionnements que je me fais autour du langage on été depuis toujours au centre de diverses réflexions. À partir de pensées de différents champs d’étude comme la philosophie, la linguistique et le design graphique, et de manière non exhaustive, je cherche à comprendre sa place, ses limites et ses possibilités. 
 
@@ -247,7 +247,7 @@ Comment donner un nouveau sens au langage ?</p>
 <blockquote data-control="La poésie">« Poetry, non-discursive, non-practical, non-utilitarian, can claim for itself a liberty of expression which literal language use does not seek and does not possess. »DE CAMPOS Augusto, « The Concrete Coin of Speech», p 168 <sup>22</sup></blockquote>
 
 44. La typographie.</br>
-<button>Le mot</button>en tant qu’un objet en soi. 
+<button>Le mot</button> en tant qu’un objet en soi. 
 Un mot inscrit dans un contexte, qui permet de traiter la langue écrite par ses qualités propres: l’aspect visuel et matériel.
 On voit en quoi ce qu’on dit n’est pas limité au discours, mais aussi au rapport à la forme et à l’espace. 
 
@@ -255,8 +255,8 @@ On voit en quoi ce qu’on dit n’est pas limité au discours, mais aussi au ra
 Le mot dans la page, le mot dans l’espace, le mot «parlant». 
 Dans le poème <span class="italic">Un coup de dés n’abolira le hasard</span>(1896), Mallarmé revendique la lettre en tant qu’<button>image</button>. Appartenant à la poésie visuelle, il recrée un rythme sonore dans la page. Cette composition fait que la page contribue aussi au sens. La typographie se mêle à la poésie et permet de lier le sonore et le visuel. 
 
-46. <p><button>La crise</button> du langage.</br>
-Pendant le XX<sup>e</sup> siècle des mouvements comme la poésie concrète, revendiquent la place des mots. Ils montrent un besoin de s’éloigner des modèles classiques du discours parce qu’ils ne fonctionnent pas vraiment. Cette prise de conscience montre que le mot permet beaucoup plus que ce que l’on considère et qu’il est limité par sa linéarité.
+46. <p>La crise du langage.</br>
+Pendant le XX<sup>e</sup> siècle des mouvements comme la poésie concrète, revendiquent la place des mots. Ils montrent un besoin de s’éloigner des modèles classiques du discours parce qu’ils ne fonctionnent pas vraiment. Cette prise de <button>conscience</button> montre que le mot permet beaucoup plus que ce que l’on considère et qu’il est limité par sa linéarité.
 La poésie concrète, forme hybride qu’intègre le design graphique, l’art et la poésie, place le mot entre l’écrit et la parole visuelle en le réduisant dans son état le plus essentiel.</p>
 
 47. <p>Le silence de la page.</br>
@@ -268,20 +268,20 @@ La poésie concrète, forme hybride qu’intègre le design graphique, l’art e
 DE CAMPOS Augusto, DE CAMPOS Haroldo, PIGNATARI Décio, « Pilot Plan for Concrete Poetry, Concrete Poetry: A World View », ed Mary Ellen Solt, 1968, trad.<span class="italic2"> Noigandres 4</span>, Brésil,Sao Paulo, Ediçãoes Invenção, 1958.  
 </div> 
 
-48. <button>La poésie concrète</button> traite le langage comme une entité propre. Ce n’est pas un rejet ou une négation absolue de celui-ci, mais plutôt une revendication du mot à son état le plus « pur. » Cela veut dire qu’il ne prétend pas imiter la vie réelle par une syntaxe qui complique et crée des ambiguïtés, mais c’est par le sens et la forme même du mot. 
+48. <p>La poésie concrète traite le langage comme une <button>entité propre</button>. Ce n’est pas un rejet ou une négation absolue de celui-ci, mais plutôt une revendication du mot à son état le plus « pur. » Cela veut dire qu’il ne prétend pas imiter la vie réelle par une syntaxe qui complique et crée des ambiguïtés, mais c’est par le sens et la forme même du mot.</p> 
 
->La poésie concrète est un objet en soi et non un interprète des objets extérieurs et/ou des sentiments plus ou moins subjectives. c’est matériel: mot (son, forme visuelle, charge sémantique. son problème: un problème de fonctions - la relation de ces matériaux. DE CAMPOS Augusto, DE CAMPOS Haroldo, PIGNATARI Décio, « Pilot Plan for Concrete Poetry, Concrete Poetry : A World View »23 
+<blockquote data-control="entité propre">La poésie concrète est un objet en soi et non un interprète des objets extérieurs et/ou des sentiments plus ou moins subjectives. c’est matériel: mot (son, forme visuelle, charge sémantique. son problème: un problème de fonctions - la relation de ces matériaux. DE CAMPOS Augusto, DE CAMPOS Haroldo, PIGNATARI Décio, « Pilot Plan for Concrete Poetry, Concrete Poetry : A World View »<sup>23</sup></blockquote>
 
-<div class="habillage2">
+<div class="habillage2" data-control="sensible">
 
 <sup>24</sup>« The revolt of concrete poetry is not against language. It is against the non-functionality and formulization of language.» DE CAMPOS Augusto, « The Concrete Coin of Speech», p 169, <span class="italic2">Poetics Today </span>, Vol. 3:3 (1982)	  
 </div> 
 
 49. Dans <span class="italic">The concrete coin of Speech</span><sup>24</sup>, Augusto de Campos associe le sens du mot à lui même et à des jeux phonétiques. Le mot n’est donc plus dépendant du discours mais il est plutôt liée au visuel et au sonore. Ce n’est pas question de réinventer le langage. Mais plutôt assumer en pleine conscience sa nature. Dans n’importe quel cas, le langage garde son aspect arbitraire. Au lieu de dépendre de la connaissance et donc risquer d’avoir la fine marge de doute entre ce qu’on veut dire et ce que la personne comprend, on fait appel au <button>sensible</button>.
 
-50. <button>Le langage</button> est arbitraire, trompeur, sensible, changeant, fixe, écrit, sonore. 
+50. <p>Le langage est arbitraire, trompeur, sensible, changeant, fixe, écrit, sonore. 
 Le langage peut aussi être :
-« Langage image, le langage et la matière, le langage et l’objet, le langage dans un contexte. » Définit par ses limites mais surtout par ses possibilités, le langage est une seule  et une centaine de formes d’expressions différentes. Sans le langage on ne pourrait pas être nous. Pour moi le langage est quelque chose qui me définie, soit par la langue que je parle où par la relation qui me permet de maintenir avec le reste du monde. Ce qui m’intéresse du langage est surtout comment peut-être un discours, une histoire mais aussi peut-être une forme, une peinture, un poème, où uniquement un espace blanc dans une page. 
+« Langage image, le langage et la matière, le langage et l’objet, le langage dans un contexte. » Définit par ses limites mais surtout par ses possibilités, le langage est une seule  et une centaine de formes d’expressions différentes. Sans le langage on ne pourrait pas être nous. Pour moi <button>le langage</button> est quelque chose qui me définie, soit par la langue que je parle où par la relation qui me permet de maintenir avec le reste du monde. Ce qui m’intéresse du langage est surtout comment peut-être un discours, une histoire mais aussi peut-être une forme, une peinture, un poème, où uniquement un espace blanc dans une page.</p>
 
 ## Bibliographie. 
 Ici, les mots qui ont contribué à construire ce texte. 
