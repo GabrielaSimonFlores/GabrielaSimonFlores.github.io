@@ -1,1 +1,1 @@
-pandoc -s mots.md -c CSS/layout.css -o dime.html
+pandoc -s mots.md -c CSS/layout.css -o index.html
