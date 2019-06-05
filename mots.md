@@ -6,14 +6,14 @@ Cinquante réflexions sur le sens des mots
 # L’impossibilité du langage :
 # Cinquante réflexions sur le sens des mots 
 
-<div class="habillage2">
+<div class="habillage2" data-control="Duras">
 
 <sup>1</sup> DURAS Marguerite,</br><span class="italic2">Le ravissement de Lol V. Stein</span>, p 24, Gallimard, Collection Folio,</br>France, 1964
-
 </div>
 
-<blockquote data-control="Dureas">Elle ne parla que pour dire qu’il lui était impossible d’exprimer combien c’était ennuyeux et long, long d’être Lol V. Stein. On lui demanda de faire un effort. Elle ne comprenait pas pourquoi, disait-elle. Sa difficulté devant la recherche d’un seul mot paraissait insurmontable.
-Le ravissement de Lol V. Stein, Marguerite <button>Duras</button> <sup>1</sup></blockquote>
+<blockquote data-control="Duras">Elle ne parla que pour dire qu’il lui était impossible d’exprimer combien c’était ennuyeux et long, long d’être Lol V. Stein. On lui demanda de faire un effort. Elle ne comprenait pas pourquoi, disait-elle. Sa difficulté devant la recherche d’un seul mot paraissait insurmontable.
+Le ravissement de Lol V. Stein, Marguerite <button>Duras</button><sup>1</sup></blockquote>
+
 
 0. J’ai écrit ce texte avec l’idée de <button>comprendre</button> et éclaircir un peu plus les idées et conceptions dispersées que j’avais autour des mots. Ces questionnements que je me fais autour du langage on été depuis toujours au centre de diverses réflexions. À partir de pensées de différents champs d’étude comme la philosophie, la linguistique et le design graphique, et de manière non exhaustive, je cherche à comprendre sa place, ses limites et ses possibilités. 
 
@@ -34,13 +34,13 @@ Consulté le 13 mars 2019
 
 3. <p>Je me suis souvent demandée pourquoi j’avais tant de mal avec les mots « voir » et « regarder ». On utilise le mot <button>voir</button> pour « percevoir par les yeux » <sup>2</sup> et regarder, pour « chercher à voir (quelqu'un ou quelque chose) en dirigeant sa vue. »<sup>3</sup> Même si les deux se réfèrent à la vision, chacun s’attache à une action si précise et si personnelle que la traduction par les mots est subtile, presque imperceptible.</p>  
 
-<div class="habillage">
+<div class="habillage" data-control="voir">
 
 <sup>4</sup>Wittgenstein Ludwig, <span class="italic2">Remarques sur les couleurs</span>, p 76, Trans-Europ-Repress, collection TER bilingue, 1997
 
 </div>
 
->339. Nous apprenons à employer les expressions «Je vois», «Il voit», etc…avant d’avoir appris à distinguer entre le voir et la cécité. Wittgenstein Ludwig, <span class="italic">Remarques sur les couleurs</span>, p 76<sup>4</sup>
+<blockquote data-control="voir">339.Nous apprenons à employer les expressions «Je vois», «Il voit», etc…avant d’avoir appris à distinguer entre le voir et la cécité. Wittgenstein Ludwig, <span class="italic">Remarques sur les couleurs</span>, p 76<sup>4</sup></blockquote>
 
 4. Voir c’est l’évidence, ce qui est devant la personne, tandis que <button>regarder</button> va au-delà. J’ai ce même problème avec « Mirar » et « Ver » en espagnol et « See » and « Watch » en anglais. « Estoy mirando a mi alrededor » où c’est plutôt « Estoy viendo a mi alrededor »/ « Je regarde autour de moi » / « I’m seeing around me ». Qu’est-ce que je veux dire avec « Estoy viendo las hojas caer.  »/ « Je vois les feuilles tomber », « I’m watching the leaves fall » ?
 
@@ -126,7 +126,7 @@ SAUSSURE Ferdinand, <span class="italic2">Cours de linguistique générale</span
 
 </div> 
 
-<blockquote data-control="Saussure">Aujourd’hui les linguistes, à l’inverse de Socrate, nous disent que la forme sonore et écrite du mot est arbitraire. Par là, ils veulent souligner une opposition que notre culture juge majeure entre les mots et les images. Histoire du graphisme avant la modernité en trois temps cinq mouvements, Muthôs, Thierry Chancogne, 2018 <sup>12</sup></blockquote></p> 
+<blockquote data-control="Saussure">Aujourd’hui les linguistes, à l’inverse de Socrate, nous disent que la forme sonore et écrite du mot est arbitraire. Par là, ils veulent souligner une opposition que notre culture juge majeure entre les mots et les images. Histoire du graphisme avant la modernité en trois temps cinq mouvements, Muthôs, Thierry Chancogne, 2018 <sup>12</sup></blockquote>
 
 20. Je me demande, comment <button>une personne</button> qui peut être si importante pour moi ou une personne que je ne connais même pas peuvent devenir le même « il » ou « elle. »
 
@@ -262,13 +262,15 @@ La poésie concrète, forme hybride qu’intègre le design graphique, l’art e
 47. <p>Le silence de la page.</br>
 <span class="italic">Silencio</span> d’Eugen Gomringer est une des premières œuvres de la poésie concrète que j’ai vu en ayant pleine conscience de ce que c’était. Je me rappelle avoir pensé qu’elle était une belle image de ce qu’on n’arrive pas à voir. C’est une image du silence même par <button>l’absence</button> du texte et non une reproduction fictive de ce que ça pourrait être. La répétition de ce mot isolé dans la page nous engage dans un sentiment de l’essence du mot. Ce n’est pas essayer de comprendre par ce que ça « pourrait être », mais plutôt par ce que c’est.</p>
 
-<div class="habillage">
+
+48. <p>La poésie concrète traite le langage comme une <button>entité propre</button>. Ce n’est pas un rejet ou une négation absolue de celui-ci, mais plutôt une revendication du mot à son état le plus « pur. » Cela veut dire qu’il ne prétend pas imiter la vie réelle par une syntaxe qui complique et crée des ambiguïtés, mais c’est par le sens et la forme même du mot.</p> 
+
+
+<div class="habillage" data-control="entité propre">
 
 <sup>23</sup>« concrete poem is an object in and by itself not an interpreter of exterior objects and/or more or less subjective feelings. its material: word (sound, visual form, semantical charge. its problem: a problem of functions- relations of this material.»								
 DE CAMPOS Augusto, DE CAMPOS Haroldo, PIGNATARI Décio, « Pilot Plan for Concrete Poetry, Concrete Poetry: A World View », ed Mary Ellen Solt, 1968, trad.<span class="italic2"> Noigandres 4</span>, Brésil,Sao Paulo, Ediçãoes Invenção, 1958.  
 </div> 
-
-48. <p>La poésie concrète traite le langage comme une <button>entité propre</button>. Ce n’est pas un rejet ou une négation absolue de celui-ci, mais plutôt une revendication du mot à son état le plus « pur. » Cela veut dire qu’il ne prétend pas imiter la vie réelle par une syntaxe qui complique et crée des ambiguïtés, mais c’est par le sens et la forme même du mot.</p> 
 
 <blockquote data-control="entité propre">La poésie concrète est un objet en soi et non un interprète des objets extérieurs et/ou des sentiments plus ou moins subjectives. c’est matériel: mot (son, forme visuelle, charge sémantique. son problème: un problème de fonctions - la relation de ces matériaux. DE CAMPOS Augusto, DE CAMPOS Haroldo, PIGNATARI Décio, « Pilot Plan for Concrete Poetry, Concrete Poetry : A World View »<sup>23</sup></blockquote>
 
@@ -283,12 +285,14 @@ DE CAMPOS Augusto, DE CAMPOS Haroldo, PIGNATARI Décio, « Pilot Plan for Concre
 Le langage peut aussi être :
 « Langage image, le langage et la matière, le langage et l’objet, le langage dans un contexte. » Définit par ses limites mais surtout par ses possibilités, le langage est une seule  et une centaine de formes d’expressions différentes. Sans le langage on ne pourrait pas être nous. Pour moi <button>le langage</button> est quelque chose qui me définie, soit par la langue que je parle où par la relation qui me permet de maintenir avec le reste du monde. Ce qui m’intéresse du langage est surtout comment peut-être un discours, une histoire mais aussi peut-être une forme, une peinture, un poème, où uniquement un espace blanc dans une page.</p>
 
+
+
 ## Bibliographie. 
-Ici, les mots qui ont contribué à construire ce texte. 
+Ici, les mots qui ont contribué à construire ce texte.
 
 ## Livres 
 
-BERGVALL Caroline, <span class="italic">L’anglais mêlé</span>, Les presses du réel, 2017, trad. de l’anglais Meddle English, 2011</br>
+ 
 BERGSON Henri, <span class="italic">Le rire. Essai sur la signification du comique</span>, Paris, édition éléctronique, 1900</br>
 BOHN Willard, <span class="italic"> Modern Visual Poetry</span>, États-Unis, University of Delaware Press, 2001</br>
 BORJES Jorge Luis, <span class="italic">El idioma de los Argentinos</span>, Espagne, La casa del Libro, 1928</br>

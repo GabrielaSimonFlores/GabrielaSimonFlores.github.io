@@ -21,6 +21,14 @@
 
 	
 }
+
+@font-face {
+	font-family: "KarminaRegular";
+	font-weight: 700; /* graisse definie dans fichier de la fonte (verifier dans glyph ou fontlab -> font Info) */
+	src: url('../Fonts/KarminaRegular.otf');
+
+	
+}
 body {
 	/* on appelle la famille déclarée via font-face */
 	font-family: "BorgesBlanca", serif; 
@@ -82,12 +90,15 @@ h2 {
 
 blockquote {
 	font-family: "BorgesBlancaitalic", serif;
-	padding-left: 64px;
+	padding-left: 100px;
+	margin: 0px auto 20px auto; 
+	width: 50%;
 	color: #fff;
 }
 
 blockquote.show {
 	color:#000;
+
 }
 
 .habillage p {
@@ -172,3 +183,43 @@ font-family: "BorgesBlancaitalic", sans-serif;
 	font-size: 15px;
 
 }
+
+
+
+@media screen and (min-width: 768px) and (max-width:1100px) {
+
+	html {
+
+
+			}
+	body {
+
+
+			}
+
+	}
+
+@media screen and (max-width: 767px) {
+
+	.habillage p {
+	width: 40%;
+	margin: 20px 70px 20px auto;
+	text-align:left; 
+	float:none;
+
+
+
+}
+
+.habillage2 p {
+
+	width: 40%;
+	margin: 20px 70px 20px auto;
+	text-align:left; 
+	float:none;
+
+}
+	}
+
+
+
