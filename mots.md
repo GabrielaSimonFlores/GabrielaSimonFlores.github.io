@@ -236,15 +236,15 @@ L’écrit, moyen pour transcrire les paroles, ne fait pas que traduire la réal
 42. <p><button>La lettre</button>.</br>
 Une forme naît du lien entre la pensée et le corps, du matériel et de l’immatériel. Si on en isole une seule, elle représente des traits auxquels on attribue des caractéristiques et une symbologie propre. Lorsqu’elle est utilisée à plusieurs elle disparaît, elle se transforme.</p>
 
-<div class="habillage2" data-control="La poésie">
+<div class="habillage2" data-control="La poésie.">
 
 <sup>22</sup>« Poetry, non-discursive, non-practical, non-utilitarian, can claim for itself a liberty of expression which literal language use does not seek and does not possess. » DE CAMPOS Augusto, « The Concrete Coin of Speech », p 168, Poetics Today, Vol. 3:3 (1982)
 </div> 
 
-43. <p><button>La poésie</button>. </br>
+43. <p><button>La poésie.</button> </br>
 Comment donner un nouveau sens au langage ?</p>
 
-<blockquote data-control="La poésie">« Poetry, non-discursive, non-practical, non-utilitarian, can claim for itself a liberty of expression which literal language use does not seek and does not possess. »DE CAMPOS Augusto, « The Concrete Coin of Speech», p 168 <sup>22</sup></blockquote>
+<blockquote data-control="La poésie.">« Poetry, non-discursive, non-practical, non-utilitarian, can claim for itself a liberty of expression which literal language use does not seek and does not possess. »DE CAMPOS Augusto, « The Concrete Coin of Speech», p 168 <sup>22</sup></blockquote>
 
 44. La typographie.</br>
 <button>Le mot</button> en tant qu’un objet en soi. 
