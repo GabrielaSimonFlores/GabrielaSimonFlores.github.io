@@ -356,7 +356,7 @@ texte écrit par </br>
 Gabriela Simon Flores</br> 
 à École Nationale des Beaux Arts de Lyon, France</br>
 dans le cadre du DNA Design Graphique</br>
-Le o3/06/2019</br>
+Le 03/06/2019</br>
 Sous la direction de Camille Pageard</br>
 </br>
 La version numérique a été conçue par </br>Gabriela Simon Flores </br>
