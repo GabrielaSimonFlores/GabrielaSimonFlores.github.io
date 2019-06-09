@@ -279,7 +279,7 @@ La poésie concrète, forme hybride qu’intègre le design graphique, l’art e
 
 <div class="habillage" data-control="entité propre">
 
-<sup>23</sup><span class="italic2">[...]concrete poem is an object in and by itself not an interpreter of exterior objects and/or more or less subjective feelings. it's material : word (sound, visual form, semantical charge. it's problem : a problem of functions - relations of this material.</span>								 Augusto De Campos, Haroldo De Campos, Décio Pignatari, « Pilot Plan for Concrete Poetry, Concrete Poetry : A World View », ed. Mary Ellen Solt, 1968, trad.<span class="italic2"> Noigandres 4</span>, Brésil,Sao Paulo, Ediçãoes Invenção, 1958.  
+<sup>23</sup><span class="italic2">[...]concrete poem is an object in and by itself not an interpreter of exterior objects and/or more or less subjective feelings. it's material : word (sound, visual form, semantical charge. it's problem : a problem of functions - relations of this material.</span>	Augusto De Campos, Haroldo De Campos, Décio Pignatari, « Pilot Plan for Concrete Poetry, Concrete Poetry : A World View », ed. Mary Ellen Solt, 1968, trad.<span class="italic2"> Noigandres 4</span>, Brésil,Sao Paulo, Ediçãoes Invenção, 1958.  
 </div> 
 
 <blockquote data-control="entité propre">La poésie concrète est un objet en soi et non un interprète des objets extérieurs et/ou des sentiments plus ou moins subjectives. c’est matériel: mot (son, forme visuelle, charge sémantique. son problème: un problème de fonctions - la relation de ces matériaux.<sup>23</sup></blockquote>
