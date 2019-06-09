@@ -350,8 +350,8 @@ CLUZEL Thomas, « Les mots ont-ils encore un sens ? », Revue de presse in
 </br>
 </br>
 
-<div class="nota1"><span class="nota1"> « L’impossibilité du langage :</br>
-Cinquante réflexions sur le sens des mots, » </br>
+<div class="nota1"><span class="italic"> L’impossibilité du langage :</br>
+Cinquante réflexions sur le sens des mots,</span> </br>
 texte écrit par </br>
 Gabriela Simon Flores</br> 
 à École Nationale des Beaux Arts de Lyon, France</br>
