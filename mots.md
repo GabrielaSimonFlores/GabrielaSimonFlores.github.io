@@ -14,7 +14,7 @@ Cinquante réflexions sur le sens des mots
 <blockquote data-control="comprendre">Elle ne parla que pour dire qu’il lui était impossible d’exprimer combien c’était ennuyeux et long, long d’être Lol V. Stein. On lui demanda de faire un effort. Elle ne comprenait pas pourquoi, disait-elle. Sa difficulté devant la recherche d’un seul mot paraissait insurmontable.<sup>1</sup></blockquote>
 
 
-0. <p>J’ai écrit ce texte avec l’idée de <button>comprendre</button> et éclaircir un peu plus les idées et conceptions dispersées que j’avais autour des mots. Ces questionnements que je me fais autour du langage on été depuis toujours au centre de diverses réflexions. À partir de pensées de différents champs d’étude comme la philosophie, la linguistique et le design graphique, et de manière non exhaustive, je cherche à comprendre sa place, ses limites et ses possibilités.</p>
+0. <p>J’ai écrit ce texte avec l’idée de <button>comprendre</button> et éclaircir un peu plus les idées et conceptions dispersées que j’avais autour des mots. Ces questionnements que je me fais autour du langage on été depuis toujours au centre de diverses réflexions. À partir de pensées de différents champs d’études comme la philosophie, la linguistique et le design graphique, et de manière non exhaustive, je cherche à comprendre sa place, ses limites et ses possibilités.</p>
 
 
 1. La langue est une <button>constante</button> dans ma vie. Quand je passe d’une langue à une autre, j’ai souvent l’impression qu’une autre personne prend le contrôle de mon corps. Ce changement n’est pas violent, mais il se fait discrètement, si discrètement que même moi, j’ai dû mal à m’en rendre compte. La personne qui parle en français n’est plus la même que celle qui parle en espagnol. L’image que j’ai de ces deux femmes est souvent liée à des étapes de ma vie. Plus le temps passe, plus j’ai du mal à les différencier.
@@ -40,12 +40,12 @@ Consulté le 13 mars 2019
 
 </div>
 
-<blockquote data-control="voir">339.Nous apprenons à employer les expressions «Je vois», «Il voit», etc…avant d’avoir appris à distinguer entre le voir et la cécité.<sup>4</sup></blockquote>
+<blockquote data-control="voir">339 Nous apprenons à employer les expressions « Je vois », « Il voit », etc…avant d’avoir appris à distinguer entre le voir et la cécité.<sup>4</sup></blockquote>
 
-4. Voir c’est l’évidence, ce qui est devant la personne, tandis que <button>regarder</button> va au-delà. J’ai ce même problème avec « Mirar » et « Ver » en espagnol et « See » and « Watch » en anglais. « Estoy mirando a mi alrededor » où c’est plutôt « Estoy viendo a mi alrededor »/ « Je regarde autour de moi » / « I’m seeing around me ». Qu’est-ce que je veux dire avec « Estoy viendo las hojas caer.  » / « Je vois les feuilles tomber », « I’m watching the leaves fall » ?
+4. « Voir » c’est l’évidence, ce qui est devant la personne, tandis que <button>&raquo; regarder &laquo; </button> va au-delà. J’ai ce même problème avec « Mirar » et « Ver » en espagnol et « See » and « Watch » en anglais. « Estoy mirando a mi alrededor » où c’est plutôt « Estoy viendo a mi alrededor »/ « Je regarde autour de moi » / « I’m seeing around me ». Est-ce que je sais ce que je veux vraiment dire avec « Estoy viendo las hojas caer.  » / « Je vois les feuilles tomber », « I’m watching the leaves fall » ?
 
 
-5. Je me vois encore ces longues nuits en train d’écrire, anxieuse à l'idée des mots que je choisis. J’écris et je change sans cesse les mêmes phrases afin de trouver les mots <button>corrects</button>. Je peux passer des heures à me concentrer sur l’adjectif <span style="text-decoration:line-through;">nécessaire</span>/juste/<span style="text-decoration:line-through;">déterminé</span>, trouver la combinaison syntaxique parfaite qui me permet de dire tout sans rien dire.
+5. Je me vois encore ces longues nuits en train d’écrire, anxieuse à l'idée des mots que je choisis. J’écris et je change sans cesse les mêmes phrases afin de trouver les mots <button>corrects</button>. Je peux passer des heures à me concentrer sur l’adjectif <span style="text-decoration:line-through;">nécessaire</span>/juste/<span style="text-decoration:line-through;">déterminé</span>, trouver la combinaison syntaxique parfaite qui me permet de tout dire sans rien dire.
 
 <div class="habillage" data-control="Borges">
 
@@ -80,22 +80,22 @@ Consulté le 13 mars 2019
 
 <div class="habillage2" data-control="autrui">
 
-<sup>8</sup><span class="italic2">Recueil des mots d'une langue ou d'un domaine de l'activité humaine, réunis selon une nomenclature d'importance variable et présentés généralement par ordre alphabétique, fournissant sur chaque mot un certain nombre d'informations relatives à son sens et à son emploi et destiné à un public défini. </span><span class="italic2">Dictionnaire</span>, Definition en ligne, http://www.cnrtl.fr/definition/dictionnaire, consulté 15 avril 2019
+<sup>8</sup><span class="italic2">Recueil des mots d'une langue ou d'un domaine de l'activité humaine, réunis selon une nomenclature d'importance variable et présentés généralement par ordre alphabétique, fournissant sur chaque mot un certain nombre d'informations relatives à son sens et à son emploi et destiné à un public défini. </span></br><span class="italic2">Dictionnaire</span>, Definition en ligne, http://www.cnrtl.fr/definition/dictionnaire, consulté 15 avril 2019
 </div>
 
 12. <p>Le langage en tant que moyen de communication est lié à <button>autrui</button>. La langue qu’on parle est définie par des codes, par des règles qu’on apprend pour qu’on puisse communiquer et se faire comprendre. Ces codes nous permettent de nous repérer sur ce qu’on considère correct ou incorrect, le dictionnaire étant le meilleur exemple.<sup>8</sup> Régi par des institutions officielles, comme <span class="italic">La Real Academia de la Lengua española</span> pour la langue espagnole, il normalise tous les mots d’une langue avec la définition et des exemples d’utilisation. Lorsqu’on choisi un mot, on se réfère à la définition donné par le dictionnaire pour l’utiliser.</p>
 
 <div class="habillage" data-control="le dialogue">
 
-<sup>9</sup><span class="italic2">L’intersubjectivité est un thème </br>utilisé par Kant dans « Critique de la faculté de juger » pour se référer à l’être-avec-autrui. Il dis que les hommes sont des sujets pensants capables de prendre en considération la pensée d’autrui dans leur jugement propre. Merleau-Ponty avait souligné d'emblée le caractère intersubjectif de la perception, du langage, de l'exercice des libertés en situation.</span> 
-Henry Duméry, « INTERSUBJECTIVITÉ », <span class="italic2">Encyclopædia Universalis</span> en ligne, consulté le 10 avril 2019. 
+<sup>9</sup><span class="italic2">L’intersubjectivité est un thème </br>utilisé par Kant dans « Critique de la faculté de juger » pour se référer à l’être-avec-autrui. Il dit que les hommes sont des sujets pensants capables de prendre en considération la pensée d’autrui dans leur jugement propre. Merleau-Ponty avait souligné d'emblée le caractère intersubjectif de la perception, du langage, de l'exercice des libertés en situation.</span> 
+Henry Duméry, « INTERSUBJECTIVITÉ », <span class="italic2">Encyclopædia Universalis</span> en ligne, Consulté le 10 avril 2019. 
 </div>
 
-13. Je comprends en quoi ces interactions et ce rapport aux autres, qui nous permettent de construire notre pensée et ne pas seulement la conditionner. C’est par « l'intersubjectivité », de cette relation qu’on se « nourrit. » C’est aussi pourquoi <button>le dialogue</button> a une place si importante, il permet d’intégrer autrui au « je » et vice-versa.<sup>9</sup> Toutes les limites et les possibilités du langage sont définies par ces échanges. 
+13. Je comprends en quoi ces interactions et ce rapport aux autres, nous permettent de construire notre pensée et de ne pas seulement la conditionner. C’est par « l'intersubjectivité », que cette relation se « nourrit. » C’est aussi pourquoi <button>le dialogue</button> a une place si importante, il permet d’intégrer autrui au « je » et vice-versa.<sup>9</sup> Toutes les limites et les possibilités du langage sont définies par ces échanges. 
 
-14. Comment concevoir l’échange sans <button>la compréhension</button> ? On a tous besoin de se communiquer et se faire comprendre. Même maintenant, je suis en train d’utiliser les mots qui ont été mis à ma disposition.
+14. Comment concevoir l’échange sans <button>la compréhension</button> ? On a tous besoin de se communiquer et de se faire comprendre. Même maintenant, je suis en train d’utiliser les mots qui ont été mis à ma disposition.
 
-15. J’ai appris ces mots à l’école. La première étape de mon éducation a été conditionnée par tout ce qui m’a entouré : je suis née en Équateur où j’ai grandi en écoutant les gens parler en espagnol. Le français est arrivé après. C’est peut-être cette deuxième étape qui a fait que je me rappelle encore les fiches de <button>vocabulaire</button>. Poisson avec l’image d’un poisson orange. Chaise avec l’image d’une chaise blanche. Fleur avec l’image d’une fleur rouge. J’ai dû apprendre que « una flor » est aussi « une fleure » et que la couleur « rojo » est aussi du « rouge », mais que ce rouge peut être le même dans n’importe quelle langue mais qu’il n’est pas toujours le même rouge pour une autre personne.
+15. J’ai appris ces mots, que je suis entrain d'utiliser, à l’école. La première étape de mon éducation a été conditionnée par tout ce qui m’a entouré : je suis née en Équateur où j’ai grandi en écoutant les gens parler en espagnol. Le français est arrivé après. C’est peut-être cette deuxième étape qui a fait que je me rappelle encore les fiches de <button>vocabulaire</button>. « Poisson avec l’image d’un poisson orange ». « Chaise avec l’image d’une chaise blanche ». « Fleur avec l’image d’une fleur rouge ». J’ai dû apprendre que « una flor » est aussi « une fleure » et que la couleur « rojo » est aussi du « rouge », et que ce rouge peut être le même dans n’importe quelle langue, mais qu’il n’est pas toujours le même rouge pour une autre personne.
 
 16. Les mots n’ont pas de raison, je ne me suis rendue compte de ça qu’après. Quand j’ai commencé à parler de plus en plus en français j’ai compris comment tout est <button>réduit</button> par le langage. Et qu’un mot n’existe pas tout seul, mais qu’il n’est que le concept qu’on lui donne.
 
@@ -103,12 +103,12 @@ Henry Duméry, « INTERSUBJECTIVITÉ », <span class="italic2">Encyclopædia U
 
 <div class="habillage" data-control="Le non-lieu">
 
-<sup>10</sup><span class="italic2">Peut-être vaut-il mieux fixer une bonne fois l’identité des personnages présents ou indiqués, pour ne pas nous embrouiller à l’infini das ces désignations flottantes, un peu abstraites, toujours susceptibles d’équivoques et de dédoublement : « le peintre », « les personnages », « les modèles », « les spectateurs », « les images ».</span> Michel Foucault, <span class="italic2">Les mots et les choses</span>,France, Éditions Gallimard, 1966, p 124-25.
+<sup>10</sup><span class="italic2">Peut-être vaut-il mieux fixer une bonne fois l’identité des personnages présents ou indiqués, pour ne pas nous embrouiller à l’infini dans ces désignations flottantes, un peu abstraites, toujours susceptibles d’équivoques et de dédoublement : « le peintre », « les personnages », « les modèles », « les spectateurs », « les images ».</span> Michel Foucault, <span class="italic2">Les mots et les choses</span>, France, Éditions Gallimard, 1966, p 124-25.
 
 </div> 
 
-18. <p>L’espace de l’histoire. L’espace créé par le biais du langage. Dans <span class="italic">Les Mots et les choses</span><sup>10</sup>, Foucault tente de faire la description la plus fidèle possible de l’œuvre de « Las Meninas » de Diego Velázquez. Cette description faite par le langage est imprécise, « flottante » parce que le discours ne permet pas de recréer la même scène. La description devient un « non-lieu », la rencontre entre la réalité et l’imaginaire.
-<button>Le non-lieu</button>, mis en place par le récit, prend comme point de départ le réel pour créer une tension entre la réalité et le sujet grâce à la parole.</p>
+18. <p>L’espace de l’histoire. L’espace créé par le biais du langage. Dans <span class="italic">Les Mots et les choses</span>,<sup>10</sup> Foucault tente de faire la description la plus fidèle possible de l’œuvre de <span class="italic">Las Meninas</span> de Diego Velázquez. Cette description faite par le langage est toujours imprécise, « flottante » parce que le discours ne permet pas de recréer la même scène. La description devient un « non-lieu », la rencontre entre la réalité et l’imaginaire.
+<button>Le non-lieu</button>, mis en place par le récit, prend comme point de départ le réel pour créer une tension entre la réalité et le sujet, grâce à la parole.</p>
 
 <div class="habillage2" data-control="Saussure">
 
@@ -116,7 +116,7 @@ Henry Duméry, « INTERSUBJECTIVITÉ », <span class="italic2">Encyclopædia U
 Ferdinand Saussure, <span class="italic2">Cours de linguistique générale</span>, Paris, Éditions Payot, 1964, p 98-101.
 </div>
 
-19. <p>Un des premiers cours que j’ai pris à l’Université portait sur la sémiologie. J’ai appris que la « fille » c’est ce que <button>Saussure</button> appelle un signe, et qu’il est divisé en deux parties: le Signifiant qui est l’image acoustique, le mot en soi, « l’aspect matériel » et le signifié qui est attribué au concept que l’on a d’une fille, « l’aspect conceptuel ».<sup>11</sup> Et j’ai surtout compris que le lien entre les deux est arbitraire.
+19. <p>Un des premiers cours que j’ai pris à l’Université portait sur la sémiologie. J’ai appris que la « fille » c’est ce que <button>Saussure</button> appelle un signe, et qu’il est divisé en deux parties : le Signifiant qui est l’image acoustique, le mot en soi, « l’aspect matériel » et le signifié qui est attribué au concept que l’on a d’une fille, « l’aspect conceptuel ».<sup>11</sup> J’ai surtout compris que le lien entre les deux est arbitraire.
 
 <div class="habillage" data-control="Saussure">
 
@@ -126,7 +126,7 @@ Ferdinand Saussure, <span class="italic2">Cours de linguistique générale</span
 
 <blockquote data-control="Saussure">Aujourd’hui les linguistes, à l’inverse de Socrate, nous disent que la forme sonore et écrite du mot est arbitraire. Par là, ils veulent souligner une opposition que notre culture juge majeure entre les mots et les images.<sup>12</sup></blockquote>
 
-20. Je me demande, comment <button>une personne</button> qui peut être si importante pour moi ou une personne que je ne connais même pas peuvent devenir le même « il » ou « elle. »
+20. Je me demande, comment <button>une personne</button> qui peut être si importante pour moi, ou une personne que je ne connais même pas, peuvent devenir le même « il » ou « elle. »
 
 21. « Tes mots ne sont pas les mêmes que les miens. »
 Je ne suis pas sûre que les mots que j’utilise, <button>mes vécus </button> et mes sentiments soient pareils. Je me suis trouvée avec l’impossibilité de transmettre exactement ce que je voulais dire. La personne en face de moi, n’aurait pas utilisé le mot « joie » mais plutôt « désir », et quand moi j’ai parlé de « joie » je voulais dire « peur ».
@@ -137,7 +137,7 @@ Je ne suis pas sûre que les mots que j’utilise, <button>mes vécus </button> 
 Jorge Luis Borges, <span class="italic2">Otras inquisiciones</span>, « El idioma analítico de John Wilkins », Espagne, Éditions Alianza, 1952, p 60.
 </div>
 
-22. Pourquoi le mot fleur aurait-il plus de <button>légitimité</button> que le mot flor, où le mot moon aurais plus de sens que le mot lune ?<sup>13</sup>
+22. Pourquoi le mot fleur aurait-il plus de <button>légitimité</button> que le mot flor ? Où le mot moon aurais plus de sens que le mot lune ?<sup>13</sup>
 
 23. Un mot n’a pas plus de sens qu’un autre. Ils n’évoquent pas vraiment ce qu’ils veulent <button>évoquer</button>, et ils n’évoquent pas la même chose pour deux personnes différentes. 
 Je pourrais passer des heures à décrire comment « le ciel était bleu » ou seulement dire que « les silencieuses rues ce soir d’été. » Le moment ne devient qu’un bout d’une histoire. Un récit. Inspiré d’un vrai moment mais qui n’est néanmoins que ça.
@@ -149,9 +149,9 @@ Henri Bergson, <span class="italic2">Le rire. Essai sur la signification du comi
 </div>
 
 24. Puis-je dire : « je suis triste » et ne rien dire d’autre ? La personne en face va-t-elle comprendre pourquoi ? Que cette tristesse n’est pas que de la tristesse mais un sentiment que je n’arrive pas à identifier ? 
-On réduit les sentiments à des sentiments universels. Bergsoninsiste sur cette perte d’<button>individualité</button>.<sup>14</sup> L’individualité n’est pas uniquement dans le ressenti du moment, mais aussi la polysémie des mots et l’impossibilité de contrôler la connotation que les autres personnes ont de chaque mot. Même si le langage est un moyen de communication, le sens qu’une personne attribue à un mot nous échappe.  
+On réduit les sentiments à des sentiments universels. Bergson insiste sur cette perte d’<button>individualité</button>.<sup>14</sup> L’individualité n’est pas uniquement dans le ressenti du moment, mais aussi par la polysémie des mots et l’impossibilité de contrôler la connotation que les autres personnes ont de chaque mot. Même si le langage est un moyen de communication, le sens qu’une personne attribue à un mot nous échappe.  
 
-25. Je fais souvent l’erreur de croire que mes paroles sont les mêmes que mes pensées et que mes pensées sont les mêmes que celles des autres. 
+25. Je fais souvent l’erreur de croire que mes paroles sont les mêmes que mes pensées, ou que mes pensées sont les mêmes que celles des autres. 
 C’est par cette distance que le langage crée sa propre <button>réalité</button>. 
 L’écrit, moyen pour transcrire les paroles, ne fait pas que traduire la réalité. Les mots écrits peuvent gagner des attributs qui leur sont propres.
 
@@ -159,7 +159,7 @@ L’écrit, moyen pour transcrire les paroles, ne fait pas que traduire la réal
 
 26. Je peux écrire sur mes nuits de Paris. <button>Transformer</button> un moment, une personne en une seule lettre. Figer les conversations que j’ai eu, garder les lectures qui m’ont aidées à construire cette réflexion. Quand j’écris, les sons deviennent des idées avec des formes visuelles et matérielles.
 
-27. <p>On définit <button>l’écriture</button> comme une représentation construite du langage par une suite de signes graphiques. C’est un système avec des signes pré-établis, encadré par des règles.
+27. <p>On définit <button>l’écriture</button> comme une représentation construite du langage par une suite de signes graphiques. C’est un système avec des signes pré-établis, encadré par des règles que lui sont propres.
 
 <div class="habillage2" data-control="l’écriture">
 
@@ -168,7 +168,7 @@ L’écrit, moyen pour transcrire les paroles, ne fait pas que traduire la réal
 
 <blockquote data-control="l’écriture">Langue et écriture sont deux systèmes de signes distincts; l’unique raison d’être du second est de représenter le premier; l’objet n’est pas défini par la combinaison du mot écrit et du mot parlé; ce dernier constitue à lui seul cet objet. Mais le mot écrit se mêle si intimement au mot parlé dont il est l’image, qu’il finit par usurper le rôle principal; on en vient à donner autant et plus d’importance à la représentation du signe vocal qu’a ce signe lui-même.<sup>15</sup> </blockquote></p>
 
-28. <p>Comment définit-on les formes pour chaque son, que chaque son soit une lettre ? Que chaque ensemble de <button>lettres</button> forme un mot et que ces mots aient du sens ?</p>
+28. <p>Comment définit-on les formes pour chaque son? Que chaque son soit une lettre ? Que chaque ensemble de <button>lettres</button> forme un mot et que ces mots aient du sens ?</p>
 
 <div class="habillage2" data-control="interprètent">
 
@@ -177,9 +177,9 @@ L’écrit, moyen pour transcrire les paroles, ne fait pas que traduire la réal
 
 29. Une histoire de l’écriture se fait de manière progressive, des premières traces, jusqu’aux caractères numériques d’aujourd’hui.<sup>16</sup>  Quand on écrit, on ne se demande pas s’il existe des écritures différentes de celle-ci, on ne se demande pas comment ces autres formes d’écriture <button>interprètent</button> le langage.  
 
-30. <p>Les pictogrammes et les <button>hiéroglyphes</button> de l’écriture égyptienne utilisent des formes simplifiées d’objets de la vie réelle; ils sont codifiés par des correspondances de sonorités et d’actions. Par correspondance, une chouette est l’équivalent d’un m et une jambe du b.</p>
+30. <p>Les pictogrammes et les <button>hiéroglyphes</button> de l’écriture égyptienne utilisent des formes simplifiées d’objets de la vie réelle; ils sont codifiés par des correspondances de sonorités et d’actions. Une chouette est l’équivalent d’un « m » et une jambe du « b. »</p>
 
-31. Quand je dessine un « t », avec cette forme je ne cherche pas à représenter une épée, ou un parapluie. 
+31. Quand je dessine un « t », je ne cherche pas à représenter une épée, ou un parapluie. 
 <button>L’alphabet</button> latin s’éloigne complètement des formes des objets existants. On suit une logique géométrique. Dans les exercices d’écriture manuscrite, on apprend qu’une suite de vagues forment un « c », que le « e » est une boucle et qu’on utilise un seul point pour différencier la ligne du « i » du « l ». 
 
 <div class="habillage" data-control="signe">
@@ -189,7 +189,7 @@ L’écrit, moyen pour transcrire les paroles, ne fait pas que traduire la réal
 
 32. Dans <span class="italic">Le trait</span><sup>17</sup> de Gerrit Noordzij, on peut voir en quoi le sens que l’on attribue au <button>signe</button> [A] a changé du logographique, au syllabique, au phonétique.
 
-33. Je me suis tellement habituée à l’usage courant des mots que des fois j’oublie leur forme. On oublie que les mots qui ont tant de sens et de signification pour nous ne sont que de l’espace blanc et des <button>traits noirs</button>. 
+33. Je me suis tellement habituée à l’usage courant des mots que des fois j’oublie leur forme. On oublie que les mots qui ont tant de sens et de signification pour nous, ne sont que de l’espace blanc et des <button>traits noirs</button>. 
 
 <div class="habillage2" data-control="traits noirs">
 <sup>18</sup>Gerrit Noordzij, <span class="italic2">Le trait. Une théorie de l’écriture</span>, France, Ypfilon éditeur, Traduit du néerlandais par Fernand Baudin, 2010, p 41.<span class="italic2"> 
@@ -197,20 +197,20 @@ L’écrit, moyen pour transcrire les paroles, ne fait pas que traduire la réal
 
 <blockquote data-control="traits noirs">Lorsque l’enfant apprend à lire, il apprend à faire le lien entre les mots de l’écriture et les mots de la langue<sup>18</sup></blockquote>
 
-34. Pendant une période de deux ans j’ai travaillé avec une artiste qui a fait le choix de ne pas utiliser <button>des capitales</button>, ni dans ses œuvres, ni dans les titres de ses oeuvres. J’ai vu la différence que cela faisait. Les capitales, chose qui nous semble si évident dans l’écriture n’est qu’une convention établie, si cela change, si on prend un peu de distance, notre perception peut changer aussi.  
+34. Pendant une période de deux ans, j’ai travaillé avec une artiste qui a fait le choix de ne pas utiliser <button>des capitales</button>, ni dans ses œuvres, ni dans les titres de ses oeuvres. J’ai vu la différence que cela faisait. Les capitales, chose qui nous semble si évident dans l’écriture, n’est qu’une convention établie. Si cela change, si on prend un peu de distance, notre perception peut changer aussi.  
 
-35. Le « a » de « argent » est exactement le même que celui de « amar » en espagnol et « art » en anglais. Grâce à <button>l’impression</button> même si j’écris une centaine de fois le même mot, celui-ci ne va pas changer. 
+35. Le « a » de « argent » est exactement le même que celui de « amar » en espagnol et « art » en anglais. Grâce à <button>l’impression</button>, même si j’écris une centaine de fois le même mot, celui-ci ne va pas changer. 
 
-36. La raison pour laquelle l’écriture réussit à se distinguer de la parole est parce qu’elle est fixée dans <button>la page</button>. Elle permet de la démultiplier, de la préserver dans le temps et lui donner un autre niveau de lecture. Même si pour Saussure (voir point 27), le mot écrit n’est qu’une représentation de la parole, il ne faut pas nier que c’est aussi une forme avec une image en lui-même.
+36. La raison pour laquelle l’écriture réussit à se distinguer de la parole est parce qu’elle est fixée dans <button>la page</button>. Elle permet de la démultiplier, de la préserver dans le temps, et lui donner un autre niveau de lecture. Même si pour Saussure (voir point 27.), le mot écrit n’est qu’une représentation de la parole, il ne faut pas nier que c’est aussi une forme avec une image en lui-même.
 
 <div class="habillage2" data-control="la page">
 
-<sup>19</sup>Tim Ingold, <span class="italic2">Une brève histoire des lignes</span>, France, Zones Sensibles Editions, trad. de l'anglais, <span class="italic2">Lines: A Brief History.</span> New York, Taylor & Francis e-Library, 2007, p 17.  
+<sup>19</sup>Tim Ingold, <span class="italic2">Une brève histoire des lignes</span>, France, Zones Sensibles Editions, trad. de l'anglais, <span class="italic2">Lines : A Brief History.</span> New York, Taylor & Francis e-Library, 2007, p 17.  
 </div>
 
 <blockquote data-control="la page">Comme beaucoup d’autres linguistes à sa suite, Saussure considérait que l’écriture était simplement une alternative à la parole pour exprimer des images acoustiques. Ce qu’il a omis de reconnaître, pense Ong, c’est qu’il est d’abord nécessaire de voir le mot écrit pour pouvoir en former une image.<sup>19</sup></blockquote>
 
-37. <p>Chaque <button>caractère</button> typographique a un nom « Futura », « Baskerville », « Marguerite », chacun est lié a un contexte propre. Chaque lettre est un objet et son usage et sa forme graphique sont liés à son sens. </p>
+37. <p>Chaque <button>caractère</button> typographique a un nom : « Futura », « Baskerville », « Marguerite. » Chacun est lié a un contexte propre. Chaque lettre est un objet et son usage et sa forme graphique sont liés à son sens. </p>
 
 <div class="habillage" data-control="caractère">
 
@@ -227,7 +227,7 @@ L’écrit, moyen pour transcrire les paroles, ne fait pas que traduire la réal
 
 40. Comment la langue me <button>limite</button>-t-elle, comment utilise-t-on sa forme écrite et que nous permet-elle de faire ?
 
-41. Je sais que l’on n’a pas le contrôle sur le sens des mots. Je sais aussi que je ne vais pas pouvoir me détacher de ces règles, de cette <button>ambiguïté</button> créée par le langage. Mais quand j’écris, au moins pendant une seconde,  je veux croire que je ces mots m’appartient qu’à moi. Que je peux les libérer.
+41. Je sais que l’on n’a pas le contrôle sur le sens des mots. Je sais aussi que je ne vais pas pouvoir me détacher de ces règles, de cette <button>ambiguïté</button> créée par le langage. Mais quand j’écris, au moins pendant une seconde,  je veux croire que ces mots m’appartient qu’à moi. Que je peux les libérer.
 
 <div class="habillage2" data-control="ambiguïté">
 
@@ -237,7 +237,7 @@ L’écrit, moyen pour transcrire les paroles, ne fait pas que traduire la réal
 <blockquote data-control="ambiguïté">Le rôle de l’écrivain consiste à tester, à remettre en question les usages et les règles d’une langue <sup>21</sup></blockquote>
 
 42. <p><span class="bold">La lettre.</span></br>
-<button>Une forme</button> naît du lien entre la pensée et le corps, du matériel et de l’immatériel. Si on en isole une seule, elle représente des traits auxquels on attribue des caractéristiques et une symbologie propre. Lorsqu’elle est utilisée à plusieurs elle disparaît, elle se transforme.</p>
+<button>Une forme</button> naît du lien entre la pensée et le corps, du matériel et de l’immatériel. Si on en isole une seule, elle représente des traits auxquels on attribue des caractéristiques et une symbologie propre. Lorsqu’elle est utilisée à plusieurs, elle disparaît, elle se transforme.</p>
 
 <div class="habillage2" data-control="sens">
 
@@ -255,19 +255,19 @@ Un mot inscrit dans un contexte, qui permet de traiter la langue écrite par ses
 On voit en quoi ce qu’on dit n’est pas limité au discours, mais aussi au rapport à la forme et à l’espace. 
 
 45. <span class="bold">La lettre, la poésie et la typographie.</span></br>
-Le mot dans la page, le mot dans l’espace, le mot «parlant».</br> 
+Le mot dans la page, le mot dans l’espace, le mot « parlant ».</br> 
 Dans le poème <span class="italic">Un coup de dés n’abolira le hasard</span> (1896), Mallarmé revendique la lettre en tant qu’<button>image</button>. Appartenant à la poésie visuelle, il recrée un rythme sonore dans la page. Cette composition fait que la page contribue aussi au sens. La typographie se mêle à la poésie et permet de lier le sonore et le visuel. 
 
 46. <p><span class="bold">La crise du langage.</span></br>
-Pendant le XX<sup>e</sup> siècle des mouvements comme la poésie concrète, revendiquent la place des mots. Ils montrent un besoin de s’éloigner des modèles classiques du discours parce qu’ils ne fonctionnent pas vraiment. Cette prise de <button>conscience</button> montre que le mot permet beaucoup plus que ce que l’on considère et qu’il est limité par sa linéarité.
-La poésie concrète, forme hybride qu’intègre le design graphique, l’art et la poésie, place le mot entre l’écrit et la parole visuelle en le réduisant dans son état le plus essentiel.</p>
+Pendant le XX<sup>e</sup>, siècle des mouvements comme la poésie concrète, revendiquent la place des mots. Ils montrent un besoin de s’éloigner des modèles classiques du discours parce qu’ils ne fonctionnent pas vraiment. Cette prise de <button>conscience</button> montre que le mot permet beaucoup plus que ce que l’on considère et qu’il est limité par sa linéarité.
+La poésie concrète, forme hybride qu’intègre le design graphique, l’art et la poésie, place le mot entre l’écrit et la parole visuelle. Il le réduit dans son état le plus essentiel.</p>
 
 47. <p><span class="bold">Le silence de la page.</span></br>
-<span class="italic">Silencio</span> d’Eugen Gomringer est une des premières œuvres de la poésie concrète que j’ai vu en ayant pleine conscience de ce que c’était. Je me rappelle avoir pensé qu’elle était une belle image de ce qu’on n’arrive pas à voir. C’est une image du silence même par <button>l’absence</button> du texte et non une reproduction fictive de ce que ça pourrait être. La répétition de ce mot isolé dans la page nous engage dans un sentiment de l’essence du mot. Ce n’est pas essayer de comprendre par ce que ça « pourrait être », mais plutôt par ce que c’est.</p>
+<span class="italic">Silencio</span> d’Eugen Gomringer est une des premières œuvres de la poésie concrète que j’ai vu en ayant pleine conscience de ce que c’était. Je me rappelle avoir pensé qu’elle était une belle image de ce qu’on n’arrive pas à voir. C’est une image du silence même par <button>l’absence</button> du texte et non une reproduction fictive de ce que ça pourrait être. La répétition de ce mot isolé dans la page nous engage dans un sentiment de l’essence du mot. Ce n’est pas essayer de comprendre par ce que ça « pourrait être », mais plutôt par « ce que c’est. »</p>
 
 <div class="habillage2" data-control="l’absence">
 
-<sup>img.</sup><span class="italic2">Silence</span>, Eugen Gomringer, <span class="italic2">The Book of Hours and Constellations</span>, New York, Something Else Press, 1954
+<sup>img.</sup><span class="italic2">Silencio</span>, Eugen Gomringer, <span class="italic2">The Book of Hours and Constellations</span>, New York, Something Else Press, 1954
 </div> 
 
 ![](imag/silence.png "Silence d'Eugen Gomringer")
@@ -293,7 +293,7 @@ La poésie concrète, forme hybride qu’intègre le design graphique, l’art e
 
 50. <p>Le langage est arbitraire, trompeur, sensible, changeant, fixe, écrit, sonore. 
 Le langage peut aussi être :
-« Langage image, le langage et la matière, le langage et l’objet, le langage dans un contexte. » Définit par ses limites mais surtout par ses possibilités, le langage est une seule  et une centaine de formes d’expressions différentes. Sans le langage on ne pourrait pas être nous. Pour moi <button>le langage</button> est quelque chose qui me définie, soit par la langue que je parle où par la relation qui me permet de maintenir avec le reste du monde. Ce qui m’intéresse du langage est surtout comment peut-être un discours, une histoire mais aussi peut-être une forme, une peinture, un poème, où uniquement un espace blanc dans une page.</p>
+« Langage image, le langage et la matière, le langage et l’objet, le langage dans un contexte. » Définit par ses limites mais surtout par ses possibilités, le langage est une seule et une centaine de formes d’expressions différentes. Sans le langage on ne pourrait pas être nous. Pour moi <button>le langage</button> est quelque chose qui me définie, soit par la langue que je parle ou par la relation qui me permet de maintenir avec le reste du monde. Ce qui m’intéresse du langage est surtout comment peut-être un discours, une histoire, mais aussi peut être une forme, une peinture, un poème, où uniquement un espace blanc dans une page.</p>
 
 
 
@@ -307,7 +307,7 @@ Ici,</br> les mots qui ont contribué à construire ce texte.
  
 BERGSON Henri, <span class="italic">Le rire. Essai sur la signification du comique</span>, Paris, édition éléctronique, 1900.</br>
 BOHN Willard, <span class="italic"> Modern Visual Poetry</span>, États-Unis, University of Delaware Press, 2001.</br>
-BORJES Jorge Luis, <span class="italic">El idioma de los Argentinos</span>, Espagne, La casa del Libro, 1928.</br>
+BORGES Jorge Luis, <span class="italic">El idioma de los Argentinos</span>, Espagne, La casa del Libro, 1928.</br>
 BORGES Jorge Luis, <span class="italic">Otras inquisiciones</span>, « Magias Parciales del Quijote », Espagne, Éditions Alianza, 1952.</br>
 CHANCOGNE Thierry, <span class="italic">Histoire du graphisme avant la modernité en trois temps cinq mouvements, épisode 1 Premier temps. Avant l’écriture. Premier Mouvement, Muthôs</span>, France, Les presses du réel, 2018.</br>
 CRAMSIE Patrick, <span class="italic">The story of Graphic Design, London</span>, The British Library, 2010.</br>
@@ -318,11 +318,11 @@ GOLDSMITH Kenneth, <span class="italic">L’écriture sans écriture</span>, du 
 GOLSTON Michael, <span class="italic">Poetic Machinations, allegory, surrealism and postmodern poetic form</span>, New York, Columbia University Press, 2015.</br>
 GOMRINGER Eugen, <span class="italic">The Book of Hours and Constellations</span>, New York, Something Else Press, 1968</br>
 HOCHULI Jost, <span class="italic">Detail in typography</span>, Londres, Hyphen Press, 2009.</br>
-INGOLD Tim, <span class="italic"> Une brève histoire des lignes</span>, France, Zones Sensibles Editions, traduit de l'anglais, <span class="italic2">Lines: A Brief History.</span> New York, Taylor & Francis e-Library, 2007.</br>
+INGOLD Tim, <span class="italic"> Une brève histoire des lignes</span>, France, Zones Sensibles Editions, traduit de l'anglais, <span class="italic">Lines: A Brief History.</span> New York, Taylor & Francis e-Library, 2007.</br>
 JAKOBSON Roman, <span class="italic">Huit questions de poétique</span>, Paris, Editions du Seuil, 1977.</br>
 SAUSSURE Ferdinand, <span class="italic">Cours de linguistique générale</span>, France, Editions Payot, 1964.</br>
 LOCKE John, <span class="italic">An Essay Concerning Human Understanding</span>, 1690, vol. I,  Londres, Everyman, 1972.</br>
-Wittgenstein Ludwig, <span class="italic">Remarques sur les couleurs</span>, Trans-Europ-Repress, collection TER bilingue, 1997.</br>
+WITTGENSTEIN Ludwig, <span class="italic">Remarques sur les couleurs</span>, Trans-Europ-Repress, collection TER bilingue, 1997.</br>
 
 </div>
 
