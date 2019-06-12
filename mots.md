@@ -296,9 +296,10 @@ Le langage peut aussi être :
 « Langage image, le langage et la matière, le langage et l’objet, le langage dans un contexte. » Définit par ses limites mais surtout par ses possibilités, le langage est une seule et une centaine de formes d’expressions différentes. Sans le langage on ne pourrait pas être nous. Pour moi <button>le langage</button> est quelque chose qui me définie, soit par la langue que je parle ou par la relation qui me permet de maintenir avec le reste du monde. Ce qui m’intéresse du langage est surtout comment peut-être un discours, une histoire, mais aussi peut être une forme, une peinture, un poème, où uniquement un espace blanc dans une page.</p>
 
 
+<div class="end" data-control="le langage">
 
-
-<span class="titulo">Bibliographie.</span> </br>
+<span class="titulo">Bibliographie.</span>
+</br>
 </br>
 </br>
 Ici,</br> les mots qui ont contribué à construire ce texte.
@@ -324,7 +325,7 @@ SAUSSURE Ferdinand, <span class="italic">Cours de linguistique générale</span>
 LOCKE John, <span class="italic">An Essay Concerning Human Understanding</span>, 1690, vol. I,  Londres, Everyman, 1972.</br>
 WITTGENSTEIN Ludwig, <span class="italic">Remarques sur les couleurs</span>, Trans-Europ-Repress, collection TER bilingue, 1997.</br>
 
-</div>
+
 
 <span class="titulo">Articles</span>
 
@@ -343,6 +344,8 @@ VIGNON Virginie, « Le trait. Une théorie de l’écriture, NOORDZIJ Gerrit�
 <span class="titulo">Documents audio-visuel</span>
 
 CLUZEL Thomas, « Les mots ont-ils encore un sens ? », Revue de presse internationale, France Culture, 11/09/2017, https://www.franceculture.fr/emissions/revue-de-presse-internationale/les-mots-ont-ils-encore-un-sens, consulté le 20 avril 2019
+
+</div>
 
 </br>
 </br>
@@ -369,7 +372,9 @@ et <span class="nota">Karmina</span> crée par Veronika Burian</br> et José Sca
 </br>
 </br>
 </br>.
-</span></div>
+</span>
+</div>
+
 
 
 

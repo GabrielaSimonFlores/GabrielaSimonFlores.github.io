@@ -66,10 +66,17 @@ li p {
 
 }
 
+.end {
+	color: #fff;
+}
+
+.end p {
+	overflow-wrap: break-word;
+}
+
 .show {
 	color: #000000;
 }
-
 li {
 	margin-bottom: 20px;
 
@@ -236,29 +243,22 @@ font-family: "KarminaBoldItalic", serif;
 
 @media screen and (max-width: 767px) {
 
-	.habillage p {
-	width: 40%;
-	margin: 20px 70px 20px auto;
-	text-align:left; 
-	float:none;
+	p, ol, h1, h2,h3, blockquote {
+		width: 90%;
+	}
 
+	.habillage p,
+	.habillage2 p {
+		width: 70%;
+		margin: 20px 16px 20px auto;
+		text-align:left; 
+		float: inline-end;
+	}
 
-
-}
-
-.habillage2 p {
-
-	width: 40%;
-	margin: 20px 70px 20px auto;
-	text-align:left; 
-	float:none;
-
-}
-
-img {
-  width: 100%;
-  height: auto;
-}
+	img {
+		width: 100%;
+		height: auto;
+	}
 
 
 	}
