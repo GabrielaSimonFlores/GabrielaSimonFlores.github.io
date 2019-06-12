@@ -77,6 +77,7 @@ li p {
 .show {
 	color: #000000;
 }
+
 li {
 	margin-bottom: 20px;
 
@@ -123,6 +124,7 @@ blockquote.show {
 	text-align: right;
 	font-size: 15px;
 	line-height: 120%;
+	color: #fff;
 
 }
 
@@ -243,22 +245,29 @@ font-family: "KarminaBoldItalic", serif;
 
 @media screen and (max-width: 767px) {
 
-	p, ol, h1, h2,h3, blockquote {
-		width: 90%;
-	}
+	.habillage p {
+	width: 70%;
+	margin: 20px 16px 20px auto;
+	text-align:left; 
+	float:none;
 
-	.habillage p,
-	.habillage2 p {
-		width: 70%;
-		margin: 20px 16px 20px auto;
-		text-align:left; 
-		float: inline-end;
-	}
 
-	img {
-		width: 100%;
-		height: auto;
-	}
+
+}
+
+.habillage2 p {
+
+	width: 70%;
+	margin: 20px 16px 20px auto;
+	text-align:left; 
+	float:none;
+
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
 
 
 	}
