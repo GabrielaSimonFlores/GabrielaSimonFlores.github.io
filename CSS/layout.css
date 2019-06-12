@@ -245,6 +245,12 @@ font-family: "KarminaBoldItalic", serif;
 
 @media screen and (max-width: 767px) {
 
+
+	p, ol, h1, h2,h3, blockquote {
+		width: 90%;
+	}
+
+
 	.habillage p {
 	width: 70%;
 	margin: 20px 16px 20px auto;
